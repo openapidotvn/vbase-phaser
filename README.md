@@ -1,1 +1,2 @@
 # phaser-template
+# Updating documentation
